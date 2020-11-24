@@ -1,0 +1,17 @@
+{
+  "name": "eggh-rpc",
+  "version": "1.0.0",
+  "description": "For Egghosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Egghosting"
+  ],
+  "author": "Tiebienotjuh",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
