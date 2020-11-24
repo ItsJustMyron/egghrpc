@@ -23,4 +23,4 @@ Zoek op in verkenner "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Start
 Vraag aan tiebe een custom bash bestand speciaal voor jou computer!
 
 
-Discord: https//egghosting.com/discord // Tiebienotjuh#2007
+Discord: https://egghosting.com/discord // Tiebienotjuh#2007
