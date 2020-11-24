@@ -21,3 +21,6 @@ Stap 1)
 Zoek op in verkenner "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp"
 
 Vraag aan tiebe een custom bash bestand speciaal voor jou computer!
+
+
+Discord: https//egghosting.com/ // Tiebienotjuh#2007
