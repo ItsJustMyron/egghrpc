@@ -2,6 +2,7 @@
 Discord Rich Precense voor Egghosting
 
 Hoe install je de RPC?
+
 Stap 1)
 Download NodeJS (https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi)
 
