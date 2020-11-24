@@ -10,6 +10,9 @@ Stap 2)
 Download & Decompress het zip bestand.
 
 Stap 3)
+Voer het install.bat bestand uit & verwijder het hierna!
+
+Stap 4)
 Voer het run.bat bestand uit!
 
 Hoe zorg je dat het progamma opstart vanaf je computer opstart?
