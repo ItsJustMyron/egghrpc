@@ -6,7 +6,7 @@ const rpc = new RPC.Client({
 rpc.on("ready", () => {
     rpc.setActivity({
         details: "Egghosting.com/discord",
-        state: "Working as Support",
+        state: "Low price 4 Good Quality",
         startTimestamp: new Date(),
         largeImageKey: "egghrpc",
         largeImageText: "egghosting.com",
