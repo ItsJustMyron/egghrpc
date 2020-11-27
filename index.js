@@ -14,7 +14,7 @@ rpc.on("ready", () => {
         SmallImageText: "egghosting.com"
     });
 
-    console.log("Egghosting Rich Precense is nu geactiveerd! Kusjes Tiebe <3")
+    console.log("Rich Precense is now actives! Made By Tiebienotjuh <3")
 });
 
 rpc.login({
