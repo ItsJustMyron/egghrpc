@@ -1,26 +1,26 @@
 # egghrpc
-Discord Rich Precense voor Egghosting
+Discord Rich Precense
 
-Hoe install je de RPC?
+How to install the RPC?
 
-Stap 1)
+Step 1)
 Download NodeJS (https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi)
 
-Stap 2)
-Download & Decompress het zip bestand.
+Step 2)
+Download & Decompress the zip file.
 
-Stap 3)
-Voer het install.bat bestand uit & verwijder het hierna!
+Step 3)
+Run the install.bat file & then delete it!
 
-Stap 4)
-Voer het run.bat bestand uit!
+Step 4)
+Run the start.bat file
 
-Hoe zorg je dat het progamma opstart vanaf je computer opstart?
+How do you make sure the program starts from your computer?
 
 Stap 1) 
-Zoek op in verkenner "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp"
+Search in explorer "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp"
 
-Vraag aan tiebe een custom bash bestand speciaal voor jou computer!
+Ask Tiebe for a custom bash file especially for your computer!
 
 
 Discord: https://egghosting.com/discord // Tiebienotjuh#2007
