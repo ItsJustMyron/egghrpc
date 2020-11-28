@@ -18,5 +18,5 @@ rpc.on("ready", () => {
 });
 
 rpc.login({
-    clientId: "780840031131795537"
+    clientId: "780840031131795537" // Client ID of application that you have creat at https://discord.com/developers/applications
 });
