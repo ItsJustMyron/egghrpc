@@ -13,7 +13,7 @@ Step 3)
 Run the install.bat file & then delete it!
 
 Step 4)
-Create a application at https://discord.com/applications
+Create a application at https://discord.com/developers/applications
 
 Step 5)
 Run the start.bat file
