@@ -13,6 +13,9 @@ Step 3)
 Run the install.bat file & then delete it!
 
 Step 4)
+Create a application at https://discord.com/applications
+
+Step 5)
 Run the start.bat file
 
 How do you make sure the program starts from your computer?
