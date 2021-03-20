@@ -4,14 +4,24 @@ const rpc = new RPC.Client({
 });
 
 rpc.on("ready", () => {
-    rpc.setActivity({
-        details: "Egghosting.com/discord",
-        state: "Low price 4 Good Quality",
-        startTimestamp: new Date(),
-        largeImageKey: "egghrpc",
-        largeImageText: "egghosting.com",
-        smallImageKey: "dci",
-        SmallImageText: "egghosting.com"
+    rpc.request('SET_ACTIVITY', {
+        pid: process.pid,
+        activity: {
+            details: "Egghosting.com/discord",
+            state: "Kwaliteit voor weinig geld",
+        assets: {
+            large_image : "egghrpc",
+            large_text : "Kwaliteit voor weinig geld.",
+        },
+        buttons: [{
+            label: "Website",
+            url: "https://egghosting.com"
+            },
+            {
+            label: "Discord",
+            url: "https://egghosting.com/discord"
+        }]
+        }
     });
 
     console.log("Rich Precense is now actives! Made By Tiebienotjuh <3")
