@@ -24,7 +24,7 @@ rpc.on("ready", () => {
         }
     });
 
-    console.log("Rich Precense is now actives! Made By Tiebienotjuh <3")
+    console.log("Rich Precense is now active! Made By Tiebienotjuh <3")
 });
 
 rpc.login({
